@@ -1,0 +1,6 @@
+Dictionary Exercises:
+•	Create a dictionary of your favorite books and their authors and print it.
+•	Add a new book to the dictionary and print the updated dictionary.
+•	Remove a book from the dictionary and print the updated dictionary.
+•	Use the keys() method to print a list of the book titles in the dictionary.
+•	Use the values() method to print a list of the author names in the dictionary.

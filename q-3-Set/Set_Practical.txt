@@ -1,0 +1,6 @@
+Set Exercises:
+•	Create a set of your favorite colors and print it.
+•	Add a new color to the set and print the updated set.
+•	Remove a color from the set and print the updated set.
+•	Create a new set that contains only the colors that start with the letter "B" and print it.
+•	Use the len() function to find the number of colors in the set and print it.

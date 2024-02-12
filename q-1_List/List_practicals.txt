@@ -1,0 +1,6 @@
+1.	List Exercises
+•	Create a list of your favorite movies and print the third movie in the list.
+•	Add a new movie to the list and print the updated list.
+•	Remove the second movie from the list and print the updated list.
+•	Sort the list in alphabetical order and print the sorted list.
+•	Create a new list that contains only the first and last movie in the original list and print it.

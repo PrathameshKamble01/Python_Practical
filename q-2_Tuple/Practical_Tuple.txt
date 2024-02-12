@@ -1,0 +1,6 @@
+Tuple Exercises:
+•	Create a tuple of your favorite foods and print the second food in the tuple.
+•	Try to change the second food in the tuple and see what happens.
+•	Create a new tuple that contains only the first and last foods in the original tuple and print it.
+•	Use the len() function to find the number of foods in the tuple and print it.
+•	Convert the tuple to a list and print the list.
