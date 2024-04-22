@@ -1,4 +1,5 @@
-'''Write a Program to Read marks from user and Find the percentage of marks of student
+"""
+Write a Program to Read marks from user and Find the percentage of marks of student
 
 Title:
     Calculate Percentage of Marks
@@ -21,7 +22,7 @@ Algorithm:
     Calculate the percentage using the formula: (total marks obtained / total marks) * 100.
     Display the percentage of marks to the user.
 
-'''
+"""
 
 subject1 = float(input("Enter marks obtained in subject 1: "))
 subject2 = float(input("Enter marks obtained in subject 2: "))
